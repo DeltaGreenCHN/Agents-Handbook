@@ -4,7 +4,7 @@
 
 ### 如何下载最新译文？
 
-前往 [https://github.com/DeltaGreenCHN/AgentsHandbook/releases/latest]()，下载pdf文件。
+前往 [https://github.com/DeltaGreenCHN/AgentsHandbook/releases/latest]()，下载zip文件。
 
 ### 如何订阅更新？
 
