@@ -2,15 +2,13 @@
 
 本页面为DeltaGreenCHN/AgentsHandbook翻译项目的唯一首发平台。
 
+最新版本：v1.0.0
+
 ### 如何下载最新译文？
 
 前往 https://github.com/DeltaGreenCHN/AgentsHandbook/releases/latest ，下载zip文件。
 
-### 什么是内测版？为什么禁止二次传播？
-
-如果你向其他人推荐此译文，希望发送本项目链接（ https://github.com/DeltaGreenCHN/AgentsHandbook ），而不是PDF文件。
-
-原因是当前版本仍然有不少地方没有翻译，因此就这样发布PDF版本的话很难推送更新。完整版预计在近期内完成，到时候会解除PDF传播的限制的。感谢大家理解。
+（PDF传播限制已解锁，欢迎大家传播PDF。）
 
 ### 如何订阅更新？
 
