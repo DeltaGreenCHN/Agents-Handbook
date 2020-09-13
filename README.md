@@ -1,6 +1,6 @@
 ![DGAH Logo](/DG_banner.jpg)
 
-本页面为DeltaGreenCHN/AgentsHandbook翻译项目的唯一首发平台。
+本页面为DeltaGreenCHN/Agents-Handbook翻译项目的唯一首发平台。
 
 最新版本：v1.1.2
 
@@ -8,7 +8,7 @@
 
 ### 如何下载最新译文？
 
-前往 https://github.com/DeltaGreenCHN/AgentsHandbook/releases/latest ，下载zip文件。
+前往 https://github.com/DeltaGreenCHN/Agents-Handbook/releases/latest ，下载zip文件。
 
 （PDF传播限制已解锁，欢迎大家传播PDF。）
 
@@ -22,7 +22,7 @@
 
 ### 如何勘误/提出建议？
 
-前往 https://github.com/DeltaGreenCHN/AgentsHandbook/issues/new 。
+前往 https://github.com/DeltaGreenCHN/Agents-Handbook/issues/new 。
 
 ### 其他事宜联系？
 
