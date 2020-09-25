@@ -9,7 +9,7 @@
 ### 如何下载最新译文？
 
 - 通过GitHub发布：前往 https://github.com/DeltaGreenCHN/Agents-Handbook/releases/latest ，下载zip文件。
-- 通过坚果云：https://github.com/DeltaGreenCHN/AgentsHandbook/releases/latest
+- 通过坚果云：https://www.jianguoyun.com/p/DYNqiPQQt5vrCBjp9r4D
 
 ### 如何订阅更新？
 
