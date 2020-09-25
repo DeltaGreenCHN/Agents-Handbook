@@ -8,9 +8,8 @@
 
 ### 如何下载最新译文？
 
-前往 https://github.com/DeltaGreenCHN/Agents-Handbook/releases/latest ，下载zip文件。
-
-（PDF传播限制已解锁，欢迎大家传播PDF。）
+- 通过GitHub发布：前往 https://github.com/DeltaGreenCHN/Agents-Handbook/releases/latest ，下载zip文件。
+- 通过坚果云：https://github.com/DeltaGreenCHN/AgentsHandbook/releases/latest
 
 ### 如何订阅更新？
 
