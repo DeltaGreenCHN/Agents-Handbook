@@ -1,8 +1,8 @@
-![DGAH Logo](/DG_banner.jpg)
+![DGAH Logo](/DG_banner.png)
 
 本页面为DeltaGreenCHN/Agents-Handbook翻译项目的唯一首发平台。
 
-最新版本：v1.1.2
+最新版本：v2.0.0
 
 本译文为非官方译文，仅作学习交流之用，禁止用于商业用途。
 
